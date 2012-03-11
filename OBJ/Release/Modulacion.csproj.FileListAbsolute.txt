@@ -1,0 +1,19 @@
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\bin\Release\Modulacion.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\bin\Release\Modulacion.pdb
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\obj\Release\Modulacion.Modulador.resources
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\obj\Release\Modulacion.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\obj\Release\Modulacion.csproj.GenerateResource.Cache
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\obj\Release\Modulacion.exe
+C:\Documents and Settings\Usuario\Configuración local\Datos de programa\Temporary Projects\Modulacion\obj\Release\Modulacion.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\ResolveAssemblyReference.cache
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\Modulacion.Properties.Resources.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\Modulacion.csproj.GenerateResource.Cache
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\Modulacion.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\bin\Release\Modulacion.exe
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\bin\Release\Modulacion.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\Modulacion.pdb
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\Modulacion.Modulador.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\bin\Release\es\Modulacion.resources.dll
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\Modulacion.Modulador.es.resources
+D:\Mis documentos\Visual Studio 2008\Projects\Modulacion\Modulacion\obj\Release\es\Modulacion.resources.dll
