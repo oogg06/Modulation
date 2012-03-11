@@ -1,0 +1,4 @@
+Modulation
+==========
+
+Modulation is a little program written in C# (VS 2008) that takes a stream of bits and encodes them in a wave allowing the user to choose a combination of methods (AM, FM y PSK) to digitalize such wave. The more bits the different methods use the shorter the wave, which demonstrate how high speed lines work to carry more information in less space.
